@@ -1,4 +1,4 @@
-# Sample NodeJS application  
+## Sample NodeJS application  
 
-# To Run the application
+## To Run the application
     npm start
