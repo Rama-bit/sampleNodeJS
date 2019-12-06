@@ -1,6 +1,4 @@
-# sampleNodeJS
+# Sample NodeJS application  
 
-Sample Node JS application
-
-To Run the application
+# To Run the application
     npm start
